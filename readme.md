@@ -1,4 +1,4 @@
-# C:\Users\竣桑\calculator
+ 目前設定的路徑為 → C:\Users\竣桑\calculator
 
 
 
